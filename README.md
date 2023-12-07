@@ -1,2 +1,3 @@
-# Brogue Scanner
-Search Brogue Community Edition seed files for monsters and items.
+# Brogue Seed Scanner
+
+Search Brogue Community Edition seed files for allies and items.
